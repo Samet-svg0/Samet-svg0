@@ -1,4 +1,4 @@
-## Hi there 👋
+##Merhaba ben Samet KAYA👋
 🔭Full stack olma yolunda ilerliyorum
 - 🌱 Suan da Html Css JS ogreniyorum..
 - 👯 I’m looking to collaborate on ...
