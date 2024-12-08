@@ -1,4 +1,4 @@
-## Merhaba ben Samet KAYA
+
 
 <!--
 **Samet-svg0/Samet-svg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
