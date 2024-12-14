@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba ben Samet KAYA</h1>
-- 🌱 I’m currently learning **Suan da yazilim ogreniyorum**
+- 🌱  **Suan da yazilim ogreniyorum**
 
 - 📫 How to reach me **samet.sk32@gmail.com**
 
