@@ -1,4 +1,4 @@
-      Merhaba ben Samet KAYA
+    <h1>  Merhaba ben Samet KAYA </h1>
 - 🌱 Suan da yazilim ogreniyorum**
 
 🧕 Frontend Developer olarak HTML, CSS, JavaScript ve React'ın deneyiminin sahibiyim. Öğrenmeye her zaman açığım ve teknoloji dünyasındaki gelişmeleri takip etmeyi seviyorum. Takım çalışmalarına önem veriyor ve sürekli güncel çalışmalara özen gösteriyorum.
